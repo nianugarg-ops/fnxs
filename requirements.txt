@@ -1,0 +1,9 @@
+# Core
+streamlit==1.38.0
+pandas==2.2.2
+
+# Google Analytics Data API + Auth
+google-analytics-data==0.18.7
+google-auth==2.35.0
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
